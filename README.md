@@ -1,6 +1,7 @@
 # xiaomi-router-AC-1200RB02
+for give file you can sand me massge in telegram id app:oxin0611 or mail:oxin061@yahoo.com 
 OME  DUMP  ROM FOR xiaomi router AC 1200RB02
-after downloading file you can see driver and NeoProgrammer + ROM FILE rb02 2.30.59.bin
+after downloading file you can see driver and NeoProgrammer + ROM FILE 
 you need PC + ch341 PROGRAMER + sop8-clips 
 connect ch341 PROGRAMER to pc  AND INSTALL DRIVER 
 OPEN BOX ROUTER AND FINED IC FALASH IN BORD (YOU CAN SEE ON TOP RIGHT BORD 8PIN IC AND NAME IS GIGo device 25Q128..
